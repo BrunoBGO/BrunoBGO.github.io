@@ -1,9 +1,6 @@
-<audio controls>
-  <source src="https://github.com/user-attachments/assets/dfa0b16f-51b8-46a7-b8e4-8a7742166033
-" type="audio/ogg">
-  <source src="https://github.com/user-attachments/assets/dfa0b16f-51b8-46a7-b8e4-8a7742166033
-" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
 
 
+https://github.com/user-attachments/assets/ce3190db-196a-499f-8a54-da9fd32173d9
+
+
+![house-md-gregory-house](https://github.com/user-attachments/assets/0c5426b0-e275-427a-9b61-828c60efab1f)
