@@ -1,4 +1,4 @@
-
+https://github.com/AmanGupta262/music-player.git
 
 
 
@@ -9,3 +9,8 @@
 ![house-md-gregory-house](https://github.com/user-attachments/assets/0c5426b0-e275-427a-9b61-828c60efab1f)
 
 [bgm.webm](https://github.com/user-attachments/assets/ea6cc05e-c93c-44fd-a806-2e312fd9df42)
+
+<audio id="player" controls>
+  <source src="[/path/to/audio.mp3](https://github.com/user-attachments/assets/ea6cc05e-c93c-44fd-a806-2e312fd9df42)" type="audio/mp3" />
+  <source src="[/path/to/audio.ogg](https://github.com/user-attachments/assets/ea6cc05e-c93c-44fd-a806-2e312fd9df42)" type="audio/ogg" />
+</audio>
