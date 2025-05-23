@@ -2,7 +2,7 @@
 
 
 
-![house-md-gregory-house](https://github.com/user-attachments/assets/124c3ac6-9daf-4735-94c0-570f11f01b09)
+![Click this for free Applause points!!!](https://github.com/user-attachments/assets/124c3ac6-9daf-4735-94c0-570f11f01b09)
 
 
 
