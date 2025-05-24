@@ -13,3 +13,9 @@ Grimes - Delicate Weapon
 <audio id="player" controls>
   <source src="Music/Grimes - Delicate Weapon.mp3">
 </audio>
+
+Shrek 3
+<video width="320" height="240" controls>
+  <source src="Music/Shrek Gets Rick-Rolled">
+Your browser does not support the video tag.
+</video>
